@@ -1,0 +1,10 @@
+{
+  "description": "Organize materiais de estudo, acompanhe prazos acadêmicos e compartilhe conteúdo autoral em círculos privados, tudo em um só lugar para universitários.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
